@@ -1,0 +1,47 @@
+
+/* Text Styling */
+
+h1, h2, h3, p {
+  color: #f2f2f2;
+}
+
+h1 {
+  font-size: 76px;
+  margin: 24px 0 16px 0;
+}
+
+h2 {
+  font-size: 48px;
+  margin: 16px 0 8px 0;
+}
+
+h3 {
+  font-size: 36px;
+  margin: 8px 0 8px 0;
+}
+
+p {
+  font-size: 20px;
+  margin: 0 0 8px 0;
+}
+
+body {
+  background-color: #262936;
+
+}
+
+.navbar, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: #262936;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #f2f2f2;
+  font-size: 20px;
+}
+
+
+.navbar-header {
+  display: none;
+}
+
+
